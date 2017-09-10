@@ -25,7 +25,7 @@ var _site_border =                      true; // [true, false] - border toggle
 //
 
 // for desktop
-var _bg_style_desktop =                 12;
+var _bg_style_desktop =                 13;
                                            // 1 = each image at each section
                                            // 2 = each image at each section (mp3 audio)
                                            // 3 = image
@@ -42,7 +42,7 @@ var _bg_style_desktop =                 12;
                                            // 14 = youtube video (mp3 audio)
 
 // for mobile
-var _bg_style_mobile =                  3;
+var _bg_style_mobile =                  2;
                                            // 1 = each image at each section
                                            // 2 = each image at each section (mp3 audio)
                                            // 3 = image
@@ -69,7 +69,7 @@ var _bg_video_youtube_loop =            true; // true, false - video loop
 // --------------------------------------------------
 //
 
-var _bg_effect =                        0; // 0 = disable, 1 = cloud, 2 = parallax star star, 3 = star
+var _bg_effect =                        2; // 0 = disable, 1 = cloud, 2 = parallax star star, 3 = star
 var _side_bg_effect_parallax =          false; // [true, false] - enable parallax effect on above effect, its force disable on mobile, and not work with outdated browser
 
 //
