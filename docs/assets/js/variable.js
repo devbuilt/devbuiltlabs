@@ -42,7 +42,7 @@ var _bg_style_desktop =                 13;
                                            // 14 = youtube video (mp3 audio)
 
 // for mobile
-var _bg_style_mobile =                  2;
+var _bg_style_mobile =                  4;
                                            // 1 = each image at each section
                                            // 2 = each image at each section (mp3 audio)
                                            // 3 = image
