@@ -615,7 +615,7 @@ i {
 
 @media (min-width: 992px) {
   .btn._icon > i {
-    left: 25px;
+    /*left: 25px;*/
   }
 }
 
